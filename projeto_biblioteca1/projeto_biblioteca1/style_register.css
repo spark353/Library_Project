@@ -1,0 +1,119 @@
+body {
+    background-image: url("list_books.jpg");
+}
+
+form {
+    width: 20%;
+    margin-top: 150px;
+    margin-left: 950px;
+    padding: 20px;
+    border: 1px solid #B0C4DE;
+    background: white;
+    border-radius: 0px 0px 0px 0px;
+    font-family: "Times New Roman";
+}
+
+img {
+    margin-left: 150px;
+}
+
+.title {
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.input-group {
+    display: flex;
+    width: 90%;
+    margin-bottom: 15px;
+    color: #828282;
+
+}
+
+.namebox {
+    width: 40cm;
+    padding-left: 2rem;
+    padding-bottom: 0.7rem;
+    background: #F1F0F0;
+    border-radius: 10px 10px 10px 10px;
+    border-width: 1px;
+}
+
+
+.bookbox {
+    width: 40cm;
+    padding-left: 2rem;
+    padding-bottom: 0.7rem;
+    background: #F1F0F0;
+    border-radius: 10px 10px 10px 10px;
+    border-width: 1px;
+}
+
+.yearbox {
+    width: 40cm;
+    padding-left: 2rem;
+    padding-bottom: 0.7rem;
+    background: #F1F0F0;
+    border-radius: 10px 10px 10px 10px;
+    border-width: 1px;
+}
+
+.emailbox {
+    width: 40cm;
+    padding-left: 2rem;
+    padding-bottom: 0.7rem;
+    background: #F1F0F0;
+    border-radius: 10px 10px 10px 10px;
+    border-width: 1px;
+}
+
+.phonebox {
+    width: 40cm;
+    padding-left: 2rem;
+    padding-bottom: 0.7rem;
+    background: #F1F0F0;
+    border-radius: 10px 10px 10px 10px;
+    border-width: 1px;
+}
+
+.passbox {
+    width: 40cm;
+    padding-left: 2rem;
+    padding-bottom: 0.7rem;
+    background: #F1F0F0;
+    border-radius: 10px 10px 10px 10px;
+    border-width: 1px;
+}
+
+.btncancelar {
+
+    background: -webkit-linear-gradient(top, #1562E4, #1C4993);
+    color: white;
+    padding: 10px;
+    width: 130px;
+    border-radius: 10px 10px 10px 10px;
+    font-family: "Verdana Pro";
+    font-weight: bolder;
+}
+
+.btnConf {
+    background: -webkit-linear-gradient(top, #1562E4, #1C4993);
+    color: white;
+    padding: 10px;
+    width: 130px;
+    border-radius: 10px 10px 10px 10px;
+    font-family: "Verdana Pro";
+    font-weight: bolder;
+}
+
+.icon {
+    position: absolute;
+    margin-right: 18px;
+    margin-top: 1px;
+    width: 44px;
+    height: 36px;
+    padding-top: 3px;
+    padding-left: 0.5rem;
+}
+
+
